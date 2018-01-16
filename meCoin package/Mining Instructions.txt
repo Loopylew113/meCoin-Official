@@ -1,2 +1,0 @@
-Hello!
-If you're here to mine ME, open up windows explorer, type %appdata% in the directory bar, find the "meCoin" folder, paste the included meCoin.conf file into the meCoin folder. At that point, open the .conf file and edit the RPC user and pass to your preferences. Now save it and return to the downloaded meCoin folder. Edit the included meMine.bat file so that the RPC user:pass combo are updated to your own password and username. Save and you're ready! Execute meMine.bat and enjoy your ME!
